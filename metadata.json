@@ -1,0 +1,6 @@
+{
+  "name": "Equilibrium - Financial Decision & Future Impact Simulation",
+  "description": "Interactive 3D financial decision simulation and future impact analyzer with real-time Monte Carlo wealth modeling, opportunity cost tracking, and life milestone horizons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
